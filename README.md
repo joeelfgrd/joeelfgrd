@@ -13,7 +13,6 @@
 - 🎓 Estudiante de **Desarrollo de Aplicaciones Multiplataforma**.
 - 💻 Apasionado por el **backend, Java, Spring Boot, bases de datos y despliegue en AWS**.
 - 🚀 Creando proyectos con **JavaFX, APIs REST, Docker y despliegue en AWS ECS/EC2**.
-- 🎮 Desarrollando un **videojuego de coches basado en Google Maps**.
 - 🌐 También trabajo con **HTML, CSS, JavaScript, React y SEO para webs**.
 
 ---
@@ -22,7 +21,6 @@
 💻 **Lenguajes:**  
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black)
 
 🖥 **Frameworks & Librerías:**  
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=flat-square&logo=springboot&logoColor=white)
