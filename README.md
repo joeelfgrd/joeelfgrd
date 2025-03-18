@@ -36,17 +36,16 @@
 ---
 
 ### 📌 **Proyectos Destacados**
-📌 **[TVMaze App]([https://github.com/joeelfgrd/TVMaze-App](https://github.com/Acceso-a-Datos2024/proyecto-ud01-tvmaze))**  
+📌 **[TVMaze App](https://github.com/Acceso-a-Datos2024/proyecto-ud01-tvmaze)**  
 🎭 Aplicación de escritorio con **JavaFX y JSON** para gestionar series y episodios de TV.
 
-📌 **[Health PochiTeam]([https://github.com/joeelfgrd/HealthPochiTeam](https://github.com/CGAInstitution/proyectoud4-pochi-team))**  
+📌 **[Health PochiTeam](https://github.com/CGAInstitution/proyectoud4-pochi-team)**  
 ❤️ Plataforma para ayudar a pacientes a recibir donaciones para medicamentos (**Spring Boot + AWS**).
-
 
 ---
 
 ### 📫 **Contacto y Redes**
-💼 **LinkedIn:** [linkedin.com/in/joel]([https://linkedin.com/in/joel](https://www.linkedin.com/in/joel-fm-5a5074317/))  
+💼 **LinkedIn:** [Joel Fernández](https://www.linkedin.com/in/joel-fm-5a5074317/)
 
 ---
 
