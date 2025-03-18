@@ -4,16 +4,17 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=joel-dev&label=Profile+Views&color=blue&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=joeelfgrd&label=Profile+Views&color=blue&style=flat" alt="profile views" />
 </p>
 
 ---
 
 ### 🛠 **Sobre mí**
 - 🎓 Estudiante de **Desarrollo de Aplicaciones Multiplataforma**.
-- 💻 Apasionado por el **backend, Java, Spring Boot, bases de datos y despliegue en AWS**.
+- 💻 Apasionado por el **backend, Java, Spring Boot, bases de datos y AWS**.
 - 🚀 Creando proyectos con **JavaFX, APIs REST, Docker y despliegue en AWS ECS/EC2**.
-- 🌐 También trabajo con **HTML, CSS, JavaScript, React y SEO para webs**.
+- 🎮 Desarrollando una **página web de descuentos en comercios secundarios**.
+- 🌐 También trabajo con **HTML, CSS, React y SEO para webs**.
 
 ---
 
@@ -35,33 +36,24 @@
 ---
 
 ### 📌 **Proyectos Destacados**
-📌 **[TVMaze App](https://github.com/tuusuario/TVMaze-App)**  
+📌 **[TVMaze App](https://github.com/joeelfgrd/TVMaze-App)**  
 🎭 Aplicación de escritorio con **JavaFX y JSON** para gestionar series y episodios de TV.
 
-📌 **[Health PochiTeam](https://github.com/tuusuario/HealthPochiTeam)**  
+📌 **[Health PochiTeam](https://github.com/joeelfgrd/HealthPochiTeam)**  
 ❤️ Plataforma para ayudar a pacientes a recibir donaciones para medicamentos (**Spring Boot + AWS**).
 
-📌 **[Web de Descuentos](https://github.com/tuusuario/Web-Descuentos)**  
-🛒 Plataforma de afiliados con descuentos y optimización SEO para generar tráfico.
-
-📌 **[Videojuego de Coches](https://github.com/tuusuario/CarGame)**  
-🏎️ Simulación basada en rutas reales de **Google Maps**, con personalización de vehículos.
 
 ---
 
 ### 📫 **Contacto y Redes**
-📧 **Email:** tuemail@gmail.com  
-🌐 **Web:** [joeldev.com](https://tuweb.com)  
-🐦 **Twitter:** [@tuusuario](https://twitter.com/tuusuario)  
-💼 **LinkedIn:** [linkedin.com/in/joel](https://linkedin.com/in/joel)  
-🚀 **Portafolio:** [joeldev.com](https://tuweb.com)  
+💼 **LinkedIn:** [linkedin.com/in/joel]([https://linkedin.com/in/joel](https://www.linkedin.com/in/joel-fm-5a5074317/))  
 
 ---
 
 ### 📊 **Estadísticas de GitHub**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tuusuario&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tuusuario&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=joeelfgrd&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=joeelfgrd&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 ---
