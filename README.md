@@ -13,7 +13,7 @@
 - 🎓 Estudiante de **Desarrollo de Aplicaciones Multiplataforma**.
 - 💻 Apasionado por el **backend, Java, Spring Boot, bases de datos y AWS**.
 - 🚀 Creando proyectos con **JavaFX, APIs REST, Docker y despliegue en AWS ECS/EC2**.
-- 🎮 Desarrollando una **página web de descuentos en comercios secundarios**.
+- 🎮 Desarrollando un **servidor para una aplicación de póker** con **Spring Boot y WebSockets**, implementado para **móviles y plataformas multiplataforma**.
 - 🌐 También trabajo con **HTML, CSS, React y SEO para webs**.
 
 ---
@@ -41,6 +41,9 @@
 
 📌 **[Health PochiTeam](https://github.com/CGAInstitution/proyectoud4-pochi-team)**  
 ❤️ Plataforma para ayudar a pacientes a recibir donaciones para medicamentos (**Spring Boot + AWS**).
+
+📌 **[PokerWeb](https://github.com/joeelfgrd/PokerWeb)**  
+♠️ **Servidor de póker en tiempo real** con **Spring Boot, WebSockets y gestión de partidas multijugador**, desarrollado para **móviles y plataformas multiplataforma**.
 
 ---
 
