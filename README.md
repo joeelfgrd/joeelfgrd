@@ -13,7 +13,7 @@
 - 🎓 **Técnico Superior en Desarrollo de Aplicaciones Multiplataforma**.
 - 💻 Apasionado por el **backend, Java, Spring Boot, bases de datos y AWS**.
 - 🚀 Creando proyectos con **JavaFX, APIs REST, Docker y despliegue en AWS ECS/EC2**.
-- 🎮 Desarrollando un **modelo de predicción de ventas de ropa** con **Python**,que sirva para ayudar al sistema de stockaje de Roberto Verino.
+- 🎮 Desarrollando un **modelo de predicción de ventas de ropa** con **Python**,que sirva para ayudar a optimizar el sistema de stock de Roberto Verino.
 - 🌐 También trabajo con **HTML, CSS, React y SEO para webs**.
 
 ---
