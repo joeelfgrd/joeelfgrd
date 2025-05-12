@@ -10,10 +10,10 @@
 ---
 
 ### 🛠 **Sobre mí**
-- 🎓 Estudiante de **Desarrollo de Aplicaciones Multiplataforma**.
+- 🎓 **Técnico Superior en Desarrollo de Aplicaciones Multiplataforma**.
 - 💻 Apasionado por el **backend, Java, Spring Boot, bases de datos y AWS**.
 - 🚀 Creando proyectos con **JavaFX, APIs REST, Docker y despliegue en AWS ECS/EC2**.
-- 🎮 Desarrollando un **servidor para una aplicación de póker** con **Spring Boot y WebSockets**, implementado para **móviles y plataformas multiplataforma**.
+- 🎮 Desarrollando un **modelo de predicción de ventas de ropa** con **Python**,que sirva para ayudar al sistema de stockaje de Roberto Verino.
 - 🌐 También trabajo con **HTML, CSS, React y SEO para webs**.
 
 ---
@@ -45,6 +45,8 @@
 📌 **[PokerWeb](https://github.com/joeelfgrd/PokerWeb)**  
 ♠️ **Servidor de póker en tiempo real** con **Spring Boot, WebSockets y gestión de partidas multijugador**, desarrollado para **móviles y plataformas multiplataforma**.
 
+📌 **[InmoTeis](https://github.com/joeelfgrd/Di-Proyect)**
+🏠 Aplicación de escritorio con PyQt6 + SQLite para gestionar clientes, propiedades y alquiler y venta de estas, incluye generación automática de facturas en PDF asi como sistemas de backup.
 ---
 
 ### 📫 **Contacto y Redes**
