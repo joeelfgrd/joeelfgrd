@@ -45,8 +45,9 @@
 📌 **[PokerWeb](https://github.com/joeelfgrd/PokerWeb)**  
 ♠️ **Servidor de póker en tiempo real** con **Spring Boot, WebSockets y gestión de partidas multijugador**, desarrollado para **móviles y plataformas multiplataforma**.
 
-📌 **[InmoTeis](https://github.com/joeelfgrd/Di-Proyect)**
-🏠 Aplicación de escritorio con PyQt6 + SQLite para gestionar clientes, propiedades y alquiler y venta de estas, incluye generación automática de facturas en PDF asi como sistemas de backup.
+📌 **[InmoTeis](https://github.com/joeelfgrd/Di-Proyect)**  
+🏠 Aplicación de escritorio con PyQt6 + SQLite para gestionar clientes, propiedades y alquiler y venta de estas, incluye generación automática de facturas en PDF así como sistemas de backup.
+
 ---
 
 ### 📫 **Contacto y Redes**
