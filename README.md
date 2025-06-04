@@ -15,7 +15,7 @@
 - 💻 Apasionado por el **backend, Java,Python, Spring Boot, bases de datos y Cloud**.
 - 🚀 Creando proyectos con **JavaFX, APIs REST, Docker y despliegue en AWS ECS/EC2**.
 - 🎮 Desarrollando un **modelo de predicción de ventas de ropa** con **Python**,que sirva para ayudar a optimizar el sistema de stock de Roberto Verino.
-- 🌐 También trabajo con **HTML, CSS, React y SEO para webs**.
+  - 🌐 También trabajo con **HTML, CSS, Vue y SEO para webs**.
 
 ---
 
