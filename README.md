@@ -52,7 +52,7 @@
 ---
 
 ### 📫 **Contacto y Redes**
-💼 **LinkedIn:** [Joel Figueirido]((https://www.linkedin.com/in/joeelfgrd/))
+💼 **LinkedIn:** [Joel Figueirido](https://www.linkedin.com/in/joeelfgrd/)
 
 ---
 
