@@ -41,7 +41,7 @@
 
 ### 📌 **Proyectos Destacados**
 📌 **[Anticipa](https://github.com/joeelfgrd/RV_FrontEnd.git)**
-[Anticipa](https://www.linkedin.com/posts/joeelfgrd_innovatechfp-innovatech-xuntadegalicia-activity-7340989190244831235-2vRh?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFBHBU0BLNwRT8cIQ7ABtG-O4zorvfA8wrU)
+[Link a post](https://www.linkedin.com/posts/joeelfgrd_innovatechfp-innovatech-xuntadegalicia-activity-7340989190244831235-2vRh?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFBHBU0BLNwRT8cIQ7ABtG-O4zorvfA8wrU)
 🏆 Proyecto ganador del programa #InnovatechFP 2025 impulsado por la Xunta de Galicia.
 Aplicación web que optimiza la gestión de inventarios en el sector moda usando inteligencia artificial.
 Para lo que entrenamos modelos de machine learning supervisado (regresión, árboles de decisión) con datos reales para anticipar la demanda, ayudando a evitar exceso o rotura de stock.
