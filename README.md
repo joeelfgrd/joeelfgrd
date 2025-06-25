@@ -15,7 +15,6 @@
 - 💻 Apasionado por el **backend, Java,Python, Spring Boot, bases de datos y Cloud**.
 - 🚀 Creando proyectos con **JavaFX, APIs REST, Docker y despliegue en AWS ECS/EC2**.
 - 🎮 Desarrollando un **modelo de predicción de ventas de ropa** con **Python**,que sirva para ayudar a optimizar el sistema de stock de Roberto Verino.
-  - 🌐 También trabajo con **HTML, CSS, Vue y SEO para webs**.
 
 ---
 
@@ -27,10 +26,13 @@
 🖥 **Frameworks & Librerías:**  
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=flat-square&logo=springboot&logoColor=white)
 ![JavaFX](https://img.shields.io/badge/JavaFX-1D96F3.svg?style=flat-square&logo=java&logoColor=white)
-![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=flat-square&logo=react&logoColor=black)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E.svg?style=flat-square&logo=vue.js&logoColor=4FC08D)
+![Quarkus](https://img.shields.io/badge/Quarkus-4695EB.svg?style=flat-square&logo=quarkus&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000.svg?style=flat-square&logo=flask&logoColor=white)
 
 🛠 **DevOps & Cloud:**  
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4.svg?style=flat-square&logo=microsoft-azure&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=flat-square&logo=git&logoColor=white)
 
