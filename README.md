@@ -13,8 +13,8 @@
 ### 🛠 **Sobre mí**
 - 🎓 **Técnico Superior en Desarrollo de Aplicaciones Multiplataforma**.
 - 💻 Apasionado por el **backend, Java,Python, Spring Boot, bases de datos y Cloud**.
-- 🚀 Creando proyectos con **JavaFX, APIs REST, Docker y despliegue en AWS ECS/EC2**.
-- 🎮 Desarrollando un **modelo de predicción de ventas de ropa** con **Python**,que sirva para ayudar a optimizar el sistema de stock de Roberto Verino.
+- 🎮 Creando proyectos con **JavaFX, APIs REST, Docker y despliegue en AWS ECS/EC2**.
+- 🚀 Desarrollando un **modelo de predicción de ventas de ropa** con **Python**,que sirva para ayudar a optimizar el sistema de stock de Roberto Verino.
 
 ---
 
@@ -22,6 +22,7 @@
 💻 **Lenguajes:**  
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1.svg?style=flat-square&logo=sql&logoColor=white)
 
 🖥 **Frameworks & Librerías:**  
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=flat-square&logo=springboot&logoColor=white)
@@ -39,6 +40,7 @@
 ---
 
 ### 📌 **Proyectos Destacados**
+
 📌 **[TVMaze App](https://github.com/Acceso-a-Datos2024/proyecto-ud01-tvmaze)**  
 🎭 Aplicación de escritorio con **JavaFX y JSON** para gestionar series y episodios de TV.
 
